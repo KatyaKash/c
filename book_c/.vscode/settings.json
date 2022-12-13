@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "checksum.h": "c",
+        "hfcal.h": "c"
+    }
+}
